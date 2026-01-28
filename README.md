@@ -1,2 +1,2 @@
 # ai-buildcamp
-Ai Engineering Buildcamp
+AI Engineering Buildcamp
